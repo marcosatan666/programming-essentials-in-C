@@ -1,1 +1,1 @@
-# programming-essentials-in-C
+# Programming Essentials in C
